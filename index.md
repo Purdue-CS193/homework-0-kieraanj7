@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages, you are now in the alpha lounge (;.
+## Kieraan's First CS193 Homework, you are now in the alpha lounge (;.
+
+> I really like how this class is only 1 credit hour and not a lot of work associated
+> I also like both of the TAs teaching the class
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
